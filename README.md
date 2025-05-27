@@ -29,4 +29,4 @@ O objetivo é simular operações básicas de uma conta bancária, como **depós
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/sistema-bancario-python.git
+   git clone https://github.com/Serpantier97/sistema-bancario.git
